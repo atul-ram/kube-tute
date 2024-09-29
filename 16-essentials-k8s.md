@@ -1,3 +1,6 @@
+https://assets.cloudskew.com/assets/misc/landing-page-hero-k8s.png
+
+
 # 16 essentials of k8s
 
 1. **High Availability**: Ensures that Kubernetes workloads continue running by distributing them across multiple nodes or zones, minimizing downtime.
